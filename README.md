@@ -1,5 +1,8 @@
 # React-shop-cloudfront
 
+CloudFront URL: https://d26tt037dkr3yj.cloudfront.net/
+S3 URL: https://s3.console.aws.amazon.com/s3/buckets/ihar-bulaty-shop-training-bucket?region=eu-central-1&tab=objects
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
